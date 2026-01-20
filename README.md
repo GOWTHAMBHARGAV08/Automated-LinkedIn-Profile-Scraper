@@ -53,13 +53,32 @@ Only personal LinkedIn profiles are included.
 Company pages, job posts, and other links are excluded.
 
 ---
+🔍 Real-world Use Case
+B2B Lead Generation / Sales Prospecting
+Perfect for:
 
-## Use Cases
+Sales teams
 
-- Recruiter lead sourcing  
-- Talent research  
-- Sales lead generation  
-- Market research  
+Recruiters
+
+Startup founders
+
+Marketing agencies
+
+Freelancers doing outreach
+
+🎯 Practical Scenarios
+🔹 Recruiters
+“Find 50 Java Developers in Mumbai without opening LinkedIn”
+
+🔹 SaaS founders
+“Build a list of CTOs to pitch my product”
+
+🔹 Marketing agencies
+“Collect LinkedIn profiles for cold DM campaigns”
+
+🔹 Freelancers
+“Get decision-makers for proposal outreach”
 
 ---
 
@@ -83,3 +102,4 @@ Company pages, job posts, and other links are excluded.
 ## Author
 
 Built as a practical AI automation project to streamline LinkedIn profile discovery
+
